@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@next/swc-darwin-arm64": "^14.2.5",
-    "@prisma/client": "5.16.2",
+    "@prisma/client": "^5.16.2",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
